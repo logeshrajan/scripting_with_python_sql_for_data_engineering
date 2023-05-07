@@ -1,0 +1,2 @@
+# scripting_with_python_sql_for_data_engineering
+Learn about basic python scripting
